@@ -1,0 +1,9 @@
+{
+  "id": "latex-indent",
+  "name": "LaTeX Indent",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Tab inserts $\\qquad$ for paragraph indent — survives Share Note rendering.",
+  "author": "小D",
+  "isDesktopOnly": false
+}
